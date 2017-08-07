@@ -22,9 +22,3 @@
 ## How to use
 
 Coming soon
-
-
-## Contact
-
-- Twitter: [@geekykaran](//twitter.com/geekykaran)
-- Email: [karanjthakkar@gmail.com](mailto:karanjthakkar@gmail.com)
